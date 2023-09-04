@@ -1,5 +1,20 @@
 package main
 
+import (
+	"fmt"
+)
+
+var  (
+	morseString string = 
+	morseInt int = 
+)
+
+func main() {
+	var i string
+	i = ";"
+	fmt.Println(i)
+}
+
 /* We are going to use structs to bring bits from morse code into bits characters into bits into morse code
 //lettters
 a01 b1000 c1010 d100 e0 f0010 g110 h0000 i00
